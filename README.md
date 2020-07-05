@@ -17,3 +17,12 @@ understand how customers respond to offers by building a model by 1st applying d
 - ML model to predict who will view and who will complete the offer
 I discussed the findings and more in details throughout the notebook, and also the link below os for a blog post explaining the project
 https://medium.com/@mohammadalsayedrouk/how-much-do-we-love-starbucks-offers-b6b3ecafdcbb?sk=26050ad21e59067a04f582b0879baae9
+### resources
+- https://github.com/wesm/pydata-book
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+- https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.to_datetime.html
+- https://benalexkeen.com/mapping-categorical-data-in-pandas/
+- https://scikit-learn.org/stable/modules/svm.html
+- https://scikit-learn.org/stable/modules/tree.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
